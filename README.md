@@ -1,2 +1,2 @@
 # ColorCrafter
-An on-demand dyed terracotta crafter to undermine colorful.kst 
+An on-demand dyed item crafter to undermine colorful.kst 
